@@ -5,3 +5,4 @@
 - 🗺️ I speak french, english and tamoul
 - 📖 Using a few langages: Kotlin, JavaScript & Python
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/laksman-sivaruban-70637b231/)
+- 💬 As a wise man once said, *"Heaven does not create one person above or below another."* People like to throw these words around. That's not the whole quote. It goes on to say that *"... while we are all equal at birth, pretty soon, things begin to change."*.
